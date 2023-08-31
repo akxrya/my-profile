@@ -1,0 +1,22 @@
+.akla2 {
+    background-color: aqua;
+}
+
+.a-link {
+    text-decoration: none;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.meet {
+    border-radius: 10px;
+    background-color: burlywood;
+    border: solid;
+}
+
+img {
+    border-radius: 200px;
+    border: solid 3px brown;
+    height: 300px;
+    width: 300px;
+}
